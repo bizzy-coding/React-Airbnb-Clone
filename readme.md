@@ -21,13 +21,13 @@ My background in digital design and marketing, coupled with a design degree, pro
 
 ## 🔗 Links
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bizzy-coding.github.io/FrontEnd_Portfolio_2023/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bizzy-coding.github.io/FrontEnd_Portfolio_2023/) (Check my profile to see my latest portoflio )
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-bizzle/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bizzy_coding/)
 
 ## 📈 Project Details
 
-This project was created to practice the core fundamentals of React, such as rendering components, using JSX, and handling data with `.map()`. It was later enhanced to include more comprehensive features, improved responsiveness, and updated data handling techniques.
+This project was created to practice the core fundamentals of React, such as rendering components, using JSX, and handling data with `.map()`. It was later enhanced to improve responsiveness, and process more data.
 
 ## 📦 Installation
 
@@ -45,7 +45,7 @@ This project was created to practice the core fundamentals of React, such as ren
    ```
 4. Start the development server:
    ```sh
-   npm start
+   npm run dev
    ```
 
 ## 📝 Credits
@@ -53,18 +53,3 @@ This project was created to practice the core fundamentals of React, such as ren
 Adapted from the [Scrimba React Course](https://scrimba.com/learn/learnreact) taught by Bob Ziroll.
 ```
 
-### How to Use It with Your Clone
-
-1. **Update Repository URL**:
-   Ensure that the GitHub repository URL in the installation section matches your actual repository URL.
-
-2. **Add Screenshot**:
-   Replace `![Screenshot](./src/assets/Project.png)` with the actual path to the screenshot of your project.
-
-3. **Deployment Link**:
-   Update the live preview link to point to the deployed version of your project.
-
-4. **Personal Links**:
-   Make sure the portfolio, LinkedIn, and Instagram links are correct and active.
-
-This `README.md` provides a clear overview of your project, your personal background, and how to set up and run the project. It also gives credit to the resources that helped in the development.
